@@ -1,0 +1,6 @@
+title: "CodingAsCreating GenAI Blog"
+description: "GPT-powered blog on Generative AI"
+baseurl: "" # keep blank for root-level GitHub Pages hosting
+url: "https://codingascreating.github.io"
+theme: minima
+markdown: kramdown
